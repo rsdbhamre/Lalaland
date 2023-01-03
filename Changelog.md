@@ -2,7 +2,7 @@
 
 ## 3.0 - "...The rebirth"
 
-**Released**: `soon`
+**Released**: `03/01/2023`
 
 **NOTE!**: The GOG edition of AVO is temporarily **discontinued**. A version for GOG will be created at some point, but it will be for the **Anniversary Edition** of Skyrim from that store only.
 
