@@ -4,7 +4,7 @@
 
 **Released**: `soon`
 
-**NOTE!**: The GOG edition of AVO is now **exclusively hosted on github**, is for the **ANNIVERSARY EDITION** only and is on a **LTSC update cycle**. It will only recieve updates after major version changes.
+**NOTE!**: The GOG edition of AVO is temporarily **discontinued**. A version for GOG will be created at some point, but it will be for the **Anniversary Edition** of Skyrim from that store only.
 
 **Info**:
 
