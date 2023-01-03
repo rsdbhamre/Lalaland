@@ -31,14 +31,13 @@ Wabbajack Modlist Installer by Althro & Styyx
       - [Downloading and Installing AVO](#downloading-and-installing-avo)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Root Builder](#root-builder)
-    - [BethINI](#bethini)
-    - [ENB](#enb)
+    - [Game Folder](#game-folder)
+    - [Reshade](#reshade)
   - [Playing the List](#playing-the-list)
-    - [Profile selection](#profile-selection)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
+  - [Adding mods to AVO](#adding-mods-to-avo)  
   - [Updating AVO](#updating-the-modlist)
   - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
@@ -47,9 +46,9 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 ## Preamble
 
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.640/659 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.640 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game. It uses [Rustic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/8398) by default; however, it can support whichever weather mod you wish to use.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream of an older version can be viewed below.
 
 [![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
 
@@ -57,18 +56,24 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-AVO has been tested extensively on a range of systems and using industry standard testing software to determine the required specs for the list. As such, the following specs are recommended to run the list.
+As of version 3, AVO has become much less taxing on the system. It is still, however, modded Skyrim. Therefore, a system similar to the following is recommended.
 
-| Spec Category | Minimum for 30fps | Recommended for 60fps |
-|     :---:    |     :---:      |     :---:     |
-| **CPU**   | 6 core/thread @ 2.3Ghz. Laptop style i9-9600t or better. | 8 Core/16 Thread CPU. 8th gen Intel core i7/3rd Gen Ryzen x800 or better |
-| **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
-| **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
-| **With ENB**     | +15% to required resources.       | +10% to required resources.      |
-| **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
-| **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
+ - i5 7th Gen or 2nd Gen Ryzen 5
+ - 16GB DDR4 RAM
+ - GTX 1660ti / RX 5600xt
 
-Space required: Approx 141GB (Downloads included)
+RX 500 series cards (580 or similar) are **not supported.**
+
+### My specs
+
+- R7 5800x
+- 32GB DDR4 3600mhz
+- NVME M.2 PCIE 3 SSD
+- RTX 3090 FE
+
+I average (locked) 116fps @ 1440p everywhere.
+
+Space required: Approx 168GB (Downloads included)
 
 ## Installation
 
@@ -124,48 +129,44 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Root Builder
+### Game Folder
 
-To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
+AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ***
 
-### ENB
-AVO comes with Solas Weathers & ENB all ready and set up to go. If you wish to change the ENB, ensure that you are using one compatible with Solas and please follow below.
+### Reshade
 
-**NOTE!**: Screenshots save to `Overwrite/Root`.
+Starting with version 3, AVO now comes with two Reshade presets that have been custom tweaked to fit the list. To swap between them, you will need to follow the steps below.
 
-#### Change the ENB
+#### Change the Reshade
 
-1. Download whatever ENB you wish to use.
-3. Click on the `Spanner and Screwdriver` icon in MO2 and select `Root Builder`.
-4. Tick the `Installer` checkbox under `Settings`.
-![Rootbuilder config](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/RootbuilderConfig.webp)
-5. Add the ENB as a new mod in MO2. Rootbuilder should assign it properly.
-6. Verify that Rootbuilder has installed the ENB properly. It should look similar to the picture below:
-![ENB Rootbuilder Check](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ENBRootBuild.webp)
-7. Disable Solas ENB.
-8. Activate your new ENB.
-9. Enjoy your new ENB.
+1. Launch Mod Organizer 2.
+2. There will be a dropdown box on the top right and a big `Run` button next to it. 
+3. Run the program named `Manage ENB/Reshade Presets` from Mod Organizer 2.
+
+![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/Select%20ER%20Manager.png)
+
+If the image below comes up, simply press OK. It is nothing to be concerned about.
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
+
+Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
+
+Activate the Reshade you wish to use by pressing the slider. To deactivate it, simply press the slider.
+
+![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/Pick%20the%20Preset.webp)
+
+For adding your own presets and more details, please follow the guide in [How to Modify AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md).
 
 ## Playing the List
-
-### Profile selection
-
-**DO NOT IGNORE THIS STEP!**
-
-Owing to the list now supporting both steam and GOG editions of the game, you **must select** the correct profile for your game copy. **WARNING!**: Failure to do so will result in your game not starting. **DO NOT IGNORE THIS STEP!**
-
-For Steam, select `AVO [STEAM]`. For GOG, select `AVO [GOG]`.
-
-**DO NOT IGNORE THIS STEP!**
-
-***
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to the SKSE corresponding to your game copy (`SKSE [STEAM]` or `SKSE [GOG]`) and press the `Run` button.
+Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
 `AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
@@ -188,17 +189,9 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-### xEdit based tool configuration for GOG
+### I own the AE paid addon. How do I use it?
 
-In order to get xEdit based tools to work with the GOG edition of the game, you need to add arguments which specify where the `data`, `ini` and `plugins` are. An example of this is given below:
-
-`-D:"C:\Games\GOG Galaxy\Games\Skyrim Anniversary Edition\Data" -I:"C:\Users\Althro\Documents\My Games\Skyrim Special Edition GOG\Skyrim.ini" -P:"C:\Games\AVO\profiles\AVO [GOG]\Plugins.txt" -IKnowWhatImDoing -PseudoESL`
-
-### I own the AE paid addon. Is there a version I can use/how do I use it?
-
-Please use [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) for full integration of the creation club content.
-
-Should you not want the integration, disable the mod called `CC Config`. **NOTE**: You will need to resolve any new conflicts that appear with activating the CC content.
+You will need to copy all of the CC content into the `Game Root` folder and then use the `Curation Club` tool in MO2 to manage it properly. **Note**: You will **need** to resolve conflicts in xEdit.
 
 ***
 
@@ -209,33 +202,7 @@ Should you not want the integration, disable the mod called `CC Config`. **NOTE*
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
 - `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-
-#### ENB
-
-AVO ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
-
-##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
-
-1. Press [Home] to open the ENB menu.
-2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
-3. Scroll down until you see letterbox and untick it.
-4. Press the save configuration button.
-5. Press [Home] to return to the game.
-
-##### Turning off settings for FPS
-
-If you are struggling for frames but want the colour correction and realism, turn off the following items.
-
-- DetailedShadows
-- ComplexFireLights
-- ComplexParticleLights – Disable Big Range
-- Reflection
-- Complex Grass Collision
-- Complex Grass
-
-If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
@@ -245,6 +212,7 @@ Simply delete the folder, and you have uninstalled it.
 - _YOU_ for reading this.
 - The Animonculory Team.
 - Noggog for Mutagen.
+- xSlim for Proofreaading documentation.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
 ## Contact
@@ -254,11 +222,11 @@ Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), p
 You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
 
 ## The Animonculory Team
-- Althro - Leader & Head of Development
-- Styyx - Senior Management Team & Dev Team
-- Chef/Para0x - Senior Management Team & Dev Team
-- The Spaniard -Senior Management Team & Documentation
+- Althro - Leader & Head of Development (Author of [ADT](https://github.com/The-Animonculory/ADT/blob/main/README.md), [AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul) & Tinvaak)
+- Styyx - Senior Management Team & Dev Team (Author of [Ruvaak](https://github.com/chri3i/Ruvaak-Readme))
+- Chef/Para0x - Senior Management Team & Dev Team (Author of [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Readme.md))
+- The Spaniard -Senior Management Team, Documentation & Dev Team
 - GuitarBarbarian - Senior Management Team
-- Annakins - Dev Team, Testing, Graphics & Documentation
+- Abandoned by Arkay - Dev Team & Testing (Author of [DNGG](https://github.com/Arkay-1248/Do-Not-Go-Gentle))
 - Astro - Dev Team & Testing
-- DestinySlayer - Dev Team & Community Engagement
+- DestinySlayer - Dev Team & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
