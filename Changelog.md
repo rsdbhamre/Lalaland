@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.0.1
+
+**Released**: `04/01/2023`
+
+**Info**:
+
+- Fixed issues with starting gear.
+- Fixed issues with CK stuff being present.
+- Fixed some bodyslide issues.
+- Removed DynDOLOD DLL (Caused quest completion issues)
+- Added: Dynamic Armor Variants, Dynamic Lowered Hoods, Spider Imbuing Integration.
+- Updated: AVO - Misc Files.
+
 ## 3.0 - "...The rebirth"
 
 **Released**: `03/01/2023`
