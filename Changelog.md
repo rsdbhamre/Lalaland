@@ -1,5 +1,17 @@
 # Changelog
 
+## 3.1
+
+**Released**: `soon`
+
+**Info**:
+
+- Rolled down to version 1.6.353 to abate plugin issues (something came up in testing a fork of this list).
+- Adjusted all DLL plugin versions accordingly.
+- Regenned all generated files.
+- Added: Oxygen Meter 2, DAR, Pristine Vanilla Movement, Vibrant Weapons.
+- Removed: Oxygen Meter.
+
 ## 3.0.1
 
 **Released**: `04/01/2023`
@@ -17,7 +29,7 @@
 
 **Released**: `03/01/2023`
 
-**NOTE!**: The GOG edition of AVO is temporarily **discontinued**. A version for GOG will be created at some point, but it will be for the **Anniversary Edition** of Skyrim from that store only.
+**NOTE!**: The GOG edition of AVO is **discontinued**.
 
 **Info**:
 
@@ -32,7 +44,7 @@
 - Adjusted INI's and Lods to improve consistency and performance.
 - Fixed issues with Bodyslide not mapping to armors correctly.
 - Regenned all genned files.
-- Removed GOG compatability - Dedicated GOG AE version will be availiable *soon*.
+- Removed GOG compatability.
 
 ## 2.4
 
