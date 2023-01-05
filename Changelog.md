@@ -2,7 +2,7 @@
 
 ## 3.1
 
-**Released**: `soon`
+**Released**: `05/01/2023`
 
 **Info**:
 
