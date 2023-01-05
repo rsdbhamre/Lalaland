@@ -46,7 +46,7 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 ## Preamble
 
-Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.640 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game. It uses [Rustic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/8398) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.343 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game. It uses [Rustic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/8398) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream of an older version can be viewed below.
 
