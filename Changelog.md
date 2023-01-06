@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.1.1
+
+**Released**: `06/01/2023`
+
+**Info**:
+
+- Fixed SkyUI load order
+- Fixed download issues with Reshade Shaders.
+
 ## 3.1
 
 **Released**: `05/01/2023`
