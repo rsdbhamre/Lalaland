@@ -2,8 +2,6 @@
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
 
-Wabbajack Modlist Installer by Althro & Styyx
-
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/WJIcon.png" width="64px" /></td>
