@@ -1,4 +1,4 @@
-# Animonculory Visual Overhaul
+# Lalaland
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
 
