@@ -1,13 +1,13 @@
 # Lalaland
 
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
+![image](https://raw.githubusercontent.com/rsdbhamre/Lalaland/main/Lalaland.webp)
 
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/GitHub.png" width="72px" /></td>
-<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+<td><img src="https://raw.githubusercontent.com/rsdbhamre/Lalaland/main/Requiem.png" width="72px" /></td>
+<td><a href="https://discord.gg/fthGXJbY">Support Discord</a></td>
 </tr>
 </table>
 
@@ -26,16 +26,15 @@
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing AVO](#downloading-and-installing-avo)
+      - [Downloading and Installing LL](#downloading-and-installing-ll)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
-    - [Reshade](#reshade)
+    - [ENB](#enb)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
-    - [Starting the Game](#starting-the-game)
-  - [Adding mods to AVO](#adding-mods-to-avo)  
+    - [Starting the Game](#starting-the-game)  
   - [Updating AVO](#updating-the-modlist)
   - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
@@ -44,17 +43,18 @@
 
 ## Preamble
 
-Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.343 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game. It uses [Rustic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/8398) by default; however, it can support whichever weather mod you wish to use.
+LalaLand (LL) is a 3tweaks (A Requiem overhaul) based modlist. It aims to provide a fair and challenging combat/gameplay, while keeping up with modern graphical standards with heavy emphasis on performance and consistency. It is built from [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) v2.3 and graphically further tweaked to increase the performance of an already very well optimised base. Gameplay inspiration was drawn from [Arkay's Commandment](https://github.com/Fornication/Arkays-Commandment), another 3tweaks list, and as such plays similar but not identical to it. Many thanks to Althro and Fornication for their work!
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream of an older version can be viewed below.
+LL is made for Skyrim Special Edition Version 1.6.640 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game.
 
-[![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
+The full modlist can be viewed here, [ENB](https://https://loadorderlibrary.com/lists/lalaland-enb), [Non-ENB](https://loadorderlibrary.com/lists/lalaland-non-enb).
+A selection of screenshots can be viewed here, [ENB](https://imgur.com/gallery/NshVBZy), [Non-ENB](https://imgur.com/gallery/L07SGCh).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
-As of version 3, AVO has become much less taxing on the system. It is still, however, modded Skyrim. Therefore, a system similar to the following is recommended.
+As mentioned earlier, LL has a focus on performance and IMO has an excellent graphics to performance ratio. If you can't run the ENB version, the non ENB profile has got you covered. Just for reference though, here's the recommended specs-
 
  - i5 7th Gen or 2nd Gen Ryzen 5
  - 16GB DDR4 RAM
@@ -62,24 +62,15 @@ As of version 3, AVO has become much less taxing on the system. It is still, how
 
 RX 500 series cards (580 or similar) are **not supported.**
 
-### My specs
-
-- R7 5800x
-- 32GB DDR4 3600mhz
-- NVME M.2 PCIE 3 SSD
-- RTX 3090 FE
-
-I average (locked) 116fps @ 1440p everywhere.
-
-Space required: Approx 168GB (Downloads included)
+Space required: Approx 152GB (Downloads included)
 
 ## Installation
 
-Installing AVO is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing LL is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing AVO, please complete the following steps.
+Prior to installing LL, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -95,17 +86,18 @@ Prior to installing AVO, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing AVO
+#### Downloading and Installing LL
 
-Downloading and installing AVO can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
+Downloading and installing AVO can take a while depending on your internet connection and computer. To install LL, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on AVO and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\AVO. **Do not install it to your desktop or downloads folder.**
-4. The download location does not need to be on a SSD but it makes installing a bit faster
-5. Press the play button to begin.
-6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+2. Check the 'Show unofficial lists' box on the top right.
+3. Press the download button on LL and wait for it to download.
+4. Set the installation folder to be somewhere like C:\Games\Lalaland. **Do not install it to your desktop or downloads folder.**
+5. The download location does not need to be on a SSD but it makes installing a bit faster
+6. Press the play button to begin.
+7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ##### Problems with installation
 
@@ -129,55 +121,35 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+LL uses an isolated copy of your Skyrim to keep your Steam installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ***
 
-### Reshade
+### ENB
 
-Starting with version 3, AVO now comes with two Reshade presets that have been custom tweaked to fit the list. To swap between them, you will need to follow the steps below.
+LL comes with ENB installed in the Game Root folder mentioned earlier. ENB GUI is opened by pressing f11.
 
-#### Change the Reshade
-
-1. Launch Mod Organizer 2.
-2. There will be a dropdown box on the top right and a big `Run` button next to it. 
-3. Run the program named `Manage ENB/Reshade Presets` from Mod Organizer 2.
-
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/Select%20ER%20Manager.png)
-
-If the image below comes up, simply press OK. It is nothing to be concerned about.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
-
-Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
-
-Activate the Reshade you wish to use by pressing the slider. To deactivate it, simply press the slider.
-
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/Pick%20the%20Preset.webp)
-
-For adding your own presets and more details, please follow the guide in [How to Modify AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md).
+If you wish to play the non ENB profile, you need to hide/disable these two files
+-d3d11.dll
+-d3dcompiler_46e.dll
+Then, you have to switch to the 'Lalaland Non-ENB' profile in MO2.
 
 ## Playing the List
 
 ### Starting up the list
-Open the installation folder and double click on the program called `ModOrganizer.exe`. 
+Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
+Please go through the left pane of MO2, I have left notes on several mods explaining what I have edited/deleted, to give you a better understanding of my list.
+There are two Major Seperators in the list, highlited in green. The 'Requiem' Seperator contains all the requiem and addon mods that constitute the majority of the gameplay changes. The other seperator 'Lalaland Additions' are the other additions I've made to AVO, ranging from graphics to gameplay mods and everything in between.
+
+Now to start the game, make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
-`AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
-
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
+LL has no MCM options required, however you can load the SmoothCam preset if you wish.
 
 ### Starting the Game
 
-- Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
-	
-## Adding mods to AVO
-
-To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
+LL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
 
 ## Updating the modlist
 
@@ -189,7 +161,21 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### I own the AE paid addon. How do I use it?
 
-You will need to copy all of the CC content into the `Game Root` folder and then use the `Curation Club` tool in MO2 to manage it properly. **Note**: You will **need** to resolve conflicts in xEdit.
+You should not use the AE addons, let alone the 4 free ones, with LL. 3tweaks isn't -and probably won't be for a long time- patched for the CC stuff.
+
+### How do I remove the black bars on the top and bottom of my screen?
+
+It's called a letterboxe effect and can be disabled in the ENB GUI. Navigate to the shader window, drop down the postpass table and uncheck the letterbox option
+
+### How do I increase the interior/night brightness?
+
+For ENB users - open ENB GUI, got to the shader window and drop down the enbeffect table. At the top of the table you'll find settings for interior/night brightness, tune them to your liking. You can also head on the [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) MCM and configure your lantern to have a larger radius
+
+For Non-ENB users - Unfortunately, no easy way for you to increase brightness like the ENB option, unless you want to deep dive edit alot in xEdit. At the very least you can configure your Quick Light as stated above.
+
+### How do I start xEdit?
+
+Create a mod called 'xEdit Cache' and enable it in MO2.
 
 ***
 
@@ -208,23 +194,10 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- The Animonculory Team.
-- Noggog for Mutagen.
-- xSlim for Proofreaading documentation.
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
+- Althro and Styyx for AVO
+- Fornication for AC and continuation of 3tweaks with his own addon - [Ftweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
+- The 3tweaks community for being awesome. Seriously, 3tweaks made me revive my requiem spark because of you guys.
 
 ## Contact
 
-Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
-
-You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
-
-## The Animonculory Team
-- Althro - Leader & Head of Development (Author of [ADT](https://github.com/The-Animonculory/ADT/blob/main/README.md), [AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul) & Tinvaak)
-- Styyx - Senior Management Team & Dev Team (Author of [Ruvaak](https://github.com/chri3i/Ruvaak-Readme))
-- Chef/Para0x - Senior Management Team & Dev Team (Author of [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Readme.md))
-- The Spaniard -Senior Management Team, Documentation & Dev Team
-- GuitarBarbarian - Senior Management Team
-- Abandoned by Arkay - Dev Team & Testing (Author of [DNGG](https://github.com/Arkay-1248/Do-Not-Go-Gentle))
-- Astro - Dev Team & Testing
-- DestinySlayer - Dev Team & Community Engagement (Author of [Krahven](https://sites.google.com/view/krahven/krahven-main-page))
+Take the 'Lalaland' role in this discord [Requiem - Wabbajack](https://discord.gg/fthGXJbY)
