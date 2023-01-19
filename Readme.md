@@ -35,7 +35,7 @@
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)  
-  - [Updating AVO](#updating-the-modlist)
+  - [Updating LLL](#updating-the-modlist)
   - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
