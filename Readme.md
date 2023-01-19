@@ -26,7 +26,7 @@
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing LL](#downloading-and-installing-ll)
+      - [Downloading and Installing LLL](#downloading-and-installing-lll)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -43,9 +43,9 @@
 
 ## Preamble
 
-LalaLand (LL) is a 3tweaks (A Requiem overhaul) based modlist. It aims to provide a fair and challenging combat/gameplay, while keeping up with modern graphical standards with heavy emphasis on performance and consistency. It is built from [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) v2.3 and graphically further tweaked to increase the performance of an already very well optimised base. Gameplay inspiration was drawn from [Arkay's Commandment](https://github.com/Fornication/Arkays-Commandment), another 3tweaks list, and as such plays similar but not identical to it. Many thanks to Althro and Fornication for their work!
+LalaLand (LLL) is a 3tweaks (A Requiem overhaul) based modlist. It aims to provide a fair and challenging combat/gameplay, while keeping up with modern graphical standards with heavy emphasis on performance and consistency. It is built from [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) v2.3 and graphically further tweaked to increase the performance of an already very well optimised base. Gameplay inspiration was drawn from [Arkay's Commandment](https://github.com/Fornication/Arkays-Commandment), another 3tweaks list, and as such plays similar but not identical to it. Many thanks to Althro and Fornication for their work!
 
-LL is made for Skyrim Special Edition Version 1.6.640 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game.
+LLL is made for Skyrim Special Edition Version 1.6.640 and uses the .exe of that version as well. It **DOES NOT** require the paid update to the game.
 
 The full modlist can be viewed here, [ENB](https://https://loadorderlibrary.com/lists/lalaland-enb), [Non-ENB](https://loadorderlibrary.com/lists/lalaland-non-enb).
 A selection of screenshots can be viewed here, [ENB](https://imgur.com/gallery/NshVBZy), [Non-ENB](https://imgur.com/gallery/L07SGCh).
@@ -54,7 +54,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-As mentioned earlier, LL has a focus on performance and IMO has an excellent graphics to performance ratio. If you can't run the ENB version, the non ENB profile has got you covered. Just for reference though, here's the recommended specs-
+As mentioned earlier, LLL has a focus on performance and IMO has an excellent graphics to performance ratio. If you can't run the ENB version, the non ENB profile has got you covered. Just for reference though, here's the recommended specs-
 
  - i5 7th Gen or 2nd Gen Ryzen 5
  - 16GB DDR4 RAM
@@ -66,11 +66,11 @@ Space required: Approx 152GB (Downloads included)
 
 ## Installation
 
-Installing LL is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing LLL is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing LL, please complete the following steps.
+Prior to installing LLL, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -86,9 +86,9 @@ Prior to installing LL, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing LL
+#### Downloading and Installing LLL
 
-Downloading and installing AVO can take a while depending on your internet connection and computer. To install LL, complete the following steps.
+Downloading and installing LLL can take a while depending on your internet connection and computer. To install LLL, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
 2. Check the 'Show unofficial lists' box on the top right.
@@ -121,13 +121,13 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-LL uses an isolated copy of your Skyrim to keep your Steam installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+LLL uses an isolated copy of your Skyrim to keep your Steam installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ***
 
 ### ENB
 
-LL comes with ENB installed in the Game Root folder mentioned earlier. ENB GUI is opened by pressing f11.
+LLL comes with ENB installed in the Game Root folder mentioned earlier. ENB GUI is opened by pressing f11.
 
 If you wish to play the non ENB profile, you need to hide/disable these two files
 -d3d11.dll
@@ -145,11 +145,11 @@ There are two Major Seperators in the list, highlited in green. The 'Requiem' Se
 Now to start the game, make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
-LL has no MCM options required, however you can load the SmoothCam preset if you wish.
+LLL has no MCM options required, however you can load the SmoothCam preset if you wish.
 
 ### Starting the Game
 
-LL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
+LLL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
 
 ## Updating the modlist
 
@@ -161,7 +161,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### I own the AE paid addon. How do I use it?
 
-You should not use the AE addons, let alone the 4 free ones, with LL. 3tweaks isn't -and probably won't be for a long time- patched for the CC stuff.
+You should not use the AE addons, let alone the 4 free ones, with LLL. 3tweaks isn't -and probably won't be for a long time- patched for the CC stuff.
 
 ### How do I remove the black bars on the top and bottom of my screen?
 
