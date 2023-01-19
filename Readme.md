@@ -93,7 +93,7 @@ Downloading and installing LLL can take a while depending on your internet conne
 
 1. Open Wabbajack and click on browse modlists.
 2. Check the 'Show unofficial lists' box on the top right.
-3. Press the download button on LL and wait for it to download.
+3. Press the download button on LLL and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Lalaland. **Do not install it to your desktop or downloads folder.**
 5. The download location does not need to be on a SSD but it makes installing a bit faster
 6. Press the play button to begin.
@@ -150,7 +150,7 @@ LLL has no MCM options required, however you can load the SmoothCam preset if yo
 
 ### Starting the Game
 
-LLL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
+LLL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LLL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
 
 ## Gameplay
 
