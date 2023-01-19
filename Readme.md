@@ -34,7 +34,8 @@
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
-    - [Starting the Game](#starting-the-game)  
+    - [Starting the Game](#starting-the-game)
+  - [Gameplay](#gameplay)
   - [Updating LLL](#updating-the-modlist)
   - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
@@ -150,6 +151,10 @@ LLL has no MCM options required, however you can load the SmoothCam preset if yo
 ### Starting the Game
 
 LLL uses [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272) and [Requiem-Starting Choices](https://www.nexusmods.com/skyrimspecialedition/mods/62901). Press 'New Game' and complete your character creation in the LAL starting cell and wait 10 seconds to let scripts initialize. LL has automated MCM settings, [MCM recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) will let you know once the default settings are applied. Then you can choose your start and spawn in the selected path, Requiem-Starting Choices will trigger where you can select your starting items.
+
+## Gameplay
+
+3tweaks (along with btweaks and ftweaks addons) is the core gameplay mod. Read up - [3Tweaks](https://sites.google.com/site/3tweaksrequiem/home), [Ftweaks](https://cdn.discordapp.com/attachments/691013188652761108/1043278546031882290/FTweaks1.23.pdf). Also make sure you check out the mods in the 'Requiem' seperator in MO2.
 
 ## Updating the modlist
 
