@@ -1,4 +1,4 @@
-# Modlist Changelog
+# Lalaland Changelog V6.0.3
 
 ### Summary
 - **Added:** 36 mods
