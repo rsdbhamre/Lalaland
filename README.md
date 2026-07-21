@@ -4,11 +4,9 @@
 
 A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too many additions. Using Community Shaders
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149981?tab=description) | [Changelog](https://github.com/rsdbhamre/Lalaland/blob/main/changelog.md) | [Load Order](https://modlistgrimoire.com/modlists/lalaland) | [Discord](https://discord.gg/mJDkWtmt53) | [Website]()
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149981?tab=description) | [Changelog](https://github.com/rsdbhamre/Lalaland/blob/main/changelog.md) | [Load Order](https://modlistgrimoire.com/modlists/lalaland) | [Discord](https://discord.gg/mJDkWtmt53)
 
 ---
-
-**Support**: Join the [Requiem Discord](https://discord.gg/mJDkWtmt53)
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
@@ -24,7 +22,6 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 - [Post-Installation](#post-installation)
 - [Playing the Game](#playing-the-game)
 - [Updating](#updating)
-- [Modifying the list](#Modifying-the-list)
 - [Uninstalling](#uninstalling)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
@@ -34,7 +31,7 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 ## Introduction
 **Lalaland** is a gameplay and graphiical overhaul for Skyrim SE (1.6.1170), using [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Core gameplay is built around the awesome [3BFTweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044).
 
-View the full mod list [here](https://modlistgrimoire.com/modlists/lalaland).
+I have several Dead is Dead playthroughs with this list on my [Youtube Channel](https://www.youtube.com/@rsdbhamre_Lala)
 
 Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -43,9 +40,9 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 ## System Requirements
 - **OS**: Windows 10 or 11 (no LTSC or modified versions; Linux not supported).
 - **Storage**: SSD required.
-- **Download Size**: ~57 GB.
-- **Install Size**: ~82 GB.
-- **Total Space Needed**: ~139 GB.
+- **Download Size**: ~61 GB.
+- **Install Size**: ~91 GB.
+- **Total Space Needed**: ~153 GB.
 
 | Component | Recommended (1080p) | My Specs (1440p) |
 |-----------|---------------------|------------------|
@@ -94,6 +91,18 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 
 ---
 
+### Modlist At A Glance
+I have thoroughly documented all the customizations, if any, of the installed mods and have tagged mods with keywords in the notes tab of mo2 left pane. The keywords being:
+- Information - These are notes for mods that may need further customization depending on the user hardware and software environment or simply user preferance. The modlist is plug and play and the game will run just fine even if you don't bother reading this, but for the discerning fellow, it may be a good idea to read up on the info provided for such mods
+- Post Installation - This is just for reference of what edits I have done to the mod after it's installation, like any changes to ini files or other assets
+- Manual Installation - When mods have been installed manually, like changing folder structure during the installation, this is a reference for how it was done.
+- FOMOD - This tag is to identify mods that have FOMODs. When reinstalling a mod that has FOMOD, the choices previously made will be highlighted.
+- GUI key - keys for various utility mods like CS, dMenu etc. You can also check the hotkeys IN-GAME through SKSE menu framework in the Execute Hotkeys tab
+
+To search mods tagged with the above keywords, you can use the filter in the left pane of mo2. Also, always check the OPTIONALS separator for optional mods according to your preference.
+
+---
+
 ## Playing the Game
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the Lalaland folder.
 - Enjoy the enhanced visuals and gameplay!
@@ -105,12 +114,6 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 2. Use the same Installation and Downloads folders.
 3. Backup custom mods or settings (prefix added mods with **[NoDelete]** in MO2).
 4. Check [Changelog](https://github.com/rsdbhamre/Lalaland/blob/main/changelog.md) for reference.
-
----
-
-## Modifying the list
-
-For LOD generation just follow this [Dragonborn's Fate LOD](https://dragonbornsfate.moddinglinked.com/lod.html)
 
 ---
 
@@ -135,4 +138,6 @@ For LOD generation just follow this [Dragonborn's Fate LOD](https://dragonbornsf
 
 ## Credits
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team.
+- [Bottle](https://github.com/InTheBottle) for his excellet modlist [CSVO](https://github.com/InTheBottle/CSVO) that I have referred for building a PBR graphical setup
+- [DBF](https://dragonbornsfate.moddinglinked.com/) team for their modding guide
 - All mod authors and the Skyrim modding community.
