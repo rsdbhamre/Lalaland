@@ -1,0 +1,35 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Lalaland",
+    "description": "A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too many additions",
+    "author": "Lala",
+    "maintainers": [
+      "github/rsdbhamre"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/rsdbhamre/Lalaland/blob/20e2bca1e543401d20fd9b34c66867c696fae13d/Resources/Lalaland%20WJ%20Image.png",
+      "readme": "https://github.com/rsdbhamre/Lalaland/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_29688bfc-1a69-4f76-8328-de279ccc6ddd",
+      "machineURL": "Lalaland",
+      "discordURL": "https://discord.gg/mJDkWtmt53"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "t/DZSf7Xsi8=",
+      "Size": 100620059,
+      "NumberOfArchives": 671,
+      "SizeOfArchives": 61646877854,
+      "NumberOfInstalledFiles": 120736,
+      "SizeOfInstalledFiles": 91794363087
+    },
+    "version": "6.0.3"
+  }
+]
