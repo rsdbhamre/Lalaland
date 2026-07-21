@@ -130,7 +130,7 @@ To search mods tagged with the above keywords, you can use the filter in the lef
 
 - **Post-Installation Issues**:
   - Form 43/DLL errors? Reinstall with “Overwrite Installation” checked in Wabbajack.
-  - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/mJDkWtmt53) with crash logs.
+  - Crashing on startup? Reinstall or seek help on Discord
 
 - Join [Requiem Discord](https://discord.gg/mJDkWtmt53) for support.
 
