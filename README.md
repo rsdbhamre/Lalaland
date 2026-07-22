@@ -29,7 +29,7 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 ---
 
 ## Introduction
-**Lalaland** is a gameplay and graphiical overhaul for Skyrim SE (1.6.1170), using [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Core gameplay is built around the awesome [3BFTweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044).
+**Lalaland** is a gameplay and graphical overhaul for Skyrim SE (1.6.1170), using [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Core gameplay is built around the awesome [3BFTweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044).
 
 I have several Dead is Dead playthroughs with this list on my [Youtube Channel](https://www.youtube.com/@rsdbhamre_Lala)
 
