@@ -1,9 +1,9 @@
-# Lalaland Changelog V6.0.3
+# Lalaland Changelog V6.0.4
 
 ### Summary
-- **Added:** 36 mods
+- **Added:** 40 mods
 - **Removed:** 14 mods
-- **Updated:** 1 mods
+- **Updated:** 2 mods
 
 ## Added Mods
 
@@ -43,6 +43,10 @@
 - TB's Improved Smoke
 - TB's Improved Smoke - Water Wheel Fix
 - z Vanilla Military Camps
+- Sleeping Expanded - Animations and NPC reactions
+- Requiem - Enchanted Rings
+- I'm walkin' here NG
+- StepUpOnto SKSE
 
 ## Removed Mods
 
@@ -76,3 +80,6 @@
 - Added no dragon lods synthesis
 - Added more notwl stuff to notwl lala's cut
 - Edited night vision perk to be easier to get
+- More abundant scrolls of magelight, now also much longer lasting
+- Skyrim souls disabled in map menu
+- Slightly brighter torches
