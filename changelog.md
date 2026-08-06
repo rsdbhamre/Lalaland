@@ -49,7 +49,7 @@
 - Horizon fix
 
 
-# Lalaland Changelog V6.0.4
+# V6.0.4
 
 ### Summary
 - **Added:** 40 mods
