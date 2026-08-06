@@ -1,3 +1,54 @@
+# V6.1.0 
+
+### Summary
+- **Added:** 18 mods
+- **Removed:** 6 mods
+- **Updated:** 14 mods
+
+## Added Mods
+
+- 3BFTweaks AYOP Dragonborn Patch
+- Alchemical Appraisal Services
+- Calcelmo's Dwemer Artifact
+- Carts Remodeled
+- Carts Remodeled - PBR and Complex Material Hub
+- Civil War intro scenes run only once
+- Delphine's Map Reveals Dragon Mounds
+- Delphine's Map Reveals Dragon Mounds - Lore Friendlier Map Markers
+- Face Discoloration Fix
+- Faultier's PBR Landscape JSON fix
+- Ftweaks - remove_timed_lockpicking
+- Requiem PBR
+- Smaller Cathedral 3D Plants - Base Object Swapper
+- Sun Reworked
+- Window Emittance Consistency
+
+## Removed Mods
+
+- Cloud Shadows - Community Shaders
+- Ftweaks Temp Fixes
+- Mountain LOD Helper
+- Nordic Stonewalls PBR
+
+## Updated Mods
+
+- 3BFTweaks - AYOP College of Winterhold: 1.5 → 5.6
+- 3BFTweaks - AYOP Companions: 1.0 → 5.6
+- 3BFtweaks - ICH Lite Patch: 1.2 → 5.6
+- 3BFTweaks - Spell Tomes REALLY Organized: 5.5 → 5.6
+- 3BFTweaks Perk Defluffer: 5.5 → 5.6
+- 3Tweaks - Complete: 5.5 → 5.6
+- Community Shaders: 1.7.3 → 1.8.1
+- Falling Rocks Removed: 1.0.3 → 1.0.4
+- HDR - Community Shaders: 1.1 → 1.2
+- Helios: 1.0 → 1.01
+- ISL Helper SKSE: 1.0.3 → 1.0.5
+- Skylighting - Community Shaders: 1.4 → 1.5
+- Small Tweaks - 3BFTweaks Patch: 5.5 → 5.6
+- Storm the Thalmor Embassy: 1.0.2 → 1.0.3
+- Horizon fix
+
+
 # Lalaland Changelog V6.0.4
 
 ### Summary
