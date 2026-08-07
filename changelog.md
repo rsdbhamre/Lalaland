@@ -1,10 +1,5 @@
 # V6.1.0
 
-### Summary
-- **Added:** 18 mods
-- **Removed:** 6 mods
-- **Updated:** 14 mods
-
 ## Added Mods
 
 - 3BFTweaks AYOP Dragonborn Patch
