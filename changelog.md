@@ -1,4 +1,4 @@
-# V6.1.0 
+# V6.1.0
 
 ### Summary
 - **Added:** 18 mods
@@ -47,6 +47,19 @@
 - Small Tweaks - 3BFTweaks Patch: 5.5 → 5.6
 - Storm the Thalmor Embassy: 1.0.2 → 1.0.3
 - Horizon fix
+
+## Other Changes
+
+- I previously mistakenly edited things for magelight instead of candlelight, fixed
+- Remove horse dismount progress circle display. You still need to hold to dismount, just removed the visual indicator
+- Shout meter was a lil off centre, fixed
+- Some auto drink systems were left on for swift potion, fixed
+- Unmapped the take all button in quick loot
+- Fixed smart training not enabled again
+- Decreased prices of ores and ingots, in line with favor jobs overhaul
+- Some fixes in pgpatcher settings
+- Convenient reading load order
+- Added synthesis food remover
 
 
 # V6.0.4
