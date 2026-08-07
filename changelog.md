@@ -55,6 +55,7 @@
 - Some fixes in pgpatcher settings
 - Convenient reading load order
 - Added synthesis food remover
+- Reran all tools and patchers for good measure
 
 
 # V6.0.4
