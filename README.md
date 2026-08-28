@@ -9,7 +9,7 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 ---
 
 **Requirements**:
-- Skyrim SE version 1.6.1170 (latest Steam update).
+- Skyrim SE version 1.6.1170.
 - Four free Anniversary Edition mods: Fishing, Rare Curios, Survival Mode, Saints and Seducers (included in the November 2021 update).
 - Does **not** require full Anniversary Edition DLC.
 
@@ -66,7 +66,6 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - Disable [auto-updates for Skyrim SE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Run Skyrim SE once for graphics check.
    - Install [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) on the same drive as Skyrim SE.
-   - Run Creation Kit once, select `Yes` to unpack scripts.
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
