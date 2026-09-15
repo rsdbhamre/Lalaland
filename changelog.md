@@ -190,6 +190,9 @@
 - Unofficial Skyrim Modder's Patch - USMP SE: 2.6.7 → 2.6.8beta
 - Widescreen Scale Removed: 1.0.4 → 1.1
 - Yes Im Sure NG: 1.7 → 1.8
+- Synthesis
+- PGPatcher
+- Dyndolod
 
 ## Other Changes
 - fixed timedlockpicking mod
