@@ -191,6 +191,20 @@
 - Widescreen Scale Removed: 1.0.4 → 1.1
 - Yes Im Sure NG: 1.7 → 1.8
 
+## Other Changes
+- fixed timedlockpicking mod
+- calcelmo quest
+- fixed skull of corruption making people hostile when stealing dreams
+- lots of ui adjustments
+- correct swift potion
+- ayop thieves guild adjustments
+- fixed unarmed weapons not consuming enchantment charges
+- fixed lower than intended grass fade distance
+- magic glass staves now require 75 enchant and perk, adjusted perks and defluffer accordingly
+- sanguine symphony some arrow settings
+- turned off dynamic impacts in sanguine symphony because they were giving free arrows
+- I most definitely may have missed out some more changes.....
+
 
 
 
