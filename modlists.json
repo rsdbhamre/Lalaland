@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Lalaland",
     "description": "A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too many additions",
     "author": "Lala",
@@ -8,28 +7,34 @@
       "github/rsdbhamre"
     ],
     "game": "skyrimspecialedition",
-    "tags": [
-    ],
+    "official": false,
+    "tags": [],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/rsdbhamre/Lalaland/main/Resources/Lalaland%20WJ%20Image.png",
       "readme": "https://github.com/rsdbhamre/Lalaland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_73d73905-1825-40f9-a3c9-22e80ef435ee",
+      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_4dab94a2-0acf-49e6-88d4-59b729bcc595",
       "machineURL": "Lalaland",
-      "discordURL": "https://discord.gg/mJDkWtmt53"
+      "discordURL": "https://discord.gg/mJDkWtmt53",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "L1T9ZckRtjY=",
-      "Size": 373632657,
+      "Hash": "uolpg3jMJXM=",
+      "Size": 373631926,
       "NumberOfArchives": 705,
       "SizeOfArchives": 64112367787,
       "NumberOfInstalledFiles": 196896,
-      "SizeOfInstalledFiles": 104958255991
+      "SizeOfInstalledFiles": 104958255588,
+      "TotalSize": 169070623375
     },
-    "version": "6.2.0"
+    "version": "6.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-09-15T10:59:42.530197Z",
+    "repositoryName": ""
   }
 ]
