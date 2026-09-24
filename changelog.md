@@ -35,7 +35,7 @@
 
 ## Updated Mods
 
-- Community Shaders: 1.8.4 → 1.9
+- Community Shaders: 1.8.4 → 1.9.1
 - HDR - Community Shaders: 1.2.1 → 1.2.2
 - Region Weather - Engine Fix: 1.0 → 1.1
 - Skylighting - Community Shaders: 1.5.1 → 1.5.2
