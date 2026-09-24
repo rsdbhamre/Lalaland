@@ -9,7 +9,7 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 ---
 
 **Requirements**:
-- Skyrim SE version 1.6.1170.
+- Latest Skyrim SE version 1.7.104.0.
 - Four free Anniversary Edition mods: Fishing, Rare Curios, Survival Mode, Saints and Seducers (included in the November 2021 update).
 - Does **not** require full Anniversary Edition DLC.
 
@@ -29,7 +29,7 @@ A beautiful yet performant 3BFTweaks experience in a refined Skyrim without too 
 ---
 
 ## Introduction
-**Lalaland** is a gameplay and graphical overhaul for Skyrim SE (1.6.1170), using [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Core gameplay is built around the awesome [3BFTweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044).
+**Lalaland** is a gameplay and graphical overhaul for Skyrim SE using the version 1.6.1170 in it's stock game, runnning [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Core gameplay is built around the awesome [3BFTweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044).
 
 I have several Dead is Dead playthroughs with this list on my [Youtube Channel](https://www.youtube.com/@rsdbhamre_Lala)
 
@@ -138,4 +138,6 @@ To search mods tagged with the above keywords, you can use the filter in the lef
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team.
 - [Bottle](https://github.com/InTheBottle) for his excellet modlist [CSVO](https://github.com/InTheBottle/CSVO) that I have referred for building a PBR graphical setup
 - [DBF](https://dragonbornsfate.moddinglinked.com/) team for their modding guide
+- [Requiem Team](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
+- [3Bftweaks Devs](https://www.nexusmods.com/skyrimspecialedition/mods/44044) - ANoobInDisguise, Banananaut, Fornication, Ghoulsmasher
 - All mod authors and the Skyrim modding community.
