@@ -17,22 +17,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/rsdbhamre/Lalaland/main/Resources/Lalaland%20WJ%20Image.png",
       "readme": "https://github.com/rsdbhamre/Lalaland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_84df60ee-eb3b-45b3-aff6-3b6f983536d5",
+      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_68fdc871-38bd-4d1c-afc7-e3b561a358db",
       "machineURL": "Lalaland",
       "discordURL": "https://discord.gg/mJDkWtmt53",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "uolpg3jMJXM=",
-      "Size": 373631926,
-      "NumberOfArchives": 705,
-      "SizeOfArchives": 64112367787,
-      "NumberOfInstalledFiles": 196896,
-      "SizeOfInstalledFiles": 104958255588,
-      "TotalSize": 169070623375
+      "Hash": "zcitPtucUUQ=",
+      "Size": 382116478,
+      "NumberOfArchives": 716,
+      "SizeOfArchives": 64269639152,
+      "NumberOfInstalledFiles": 197338,
+      "SizeOfInstalledFiles": 105197216304,
+      "TotalSize": 169466855456
     },
-    "version": "6.2",
+    "version": "6.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-09-15T10:59:42.530197Z",
     "repositoryName": ""
