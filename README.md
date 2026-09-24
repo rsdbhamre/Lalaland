@@ -97,7 +97,7 @@ I have thoroughly documented all the customizations, if any, of the installed mo
 - FOMOD - This tag is to identify mods that have FOMODs. When reinstalling a mod that has FOMOD, the choices previously made will be highlighted.
 - GUI key - keys for various utility mods like CS, dMenu etc. You can also check the hotkeys IN-GAME through SKSE menu framework in the Execute Hotkeys tab
 
-To search mods tagged with the above keywords, you can use the filter in the left pane of mo2. Also, always check the OPTIONALS separator for optional mods according to your preference. O
+To search mods tagged with the above keywords, you can use the filter in the left pane of mo2. Also, always check the OPTIONALS separator for optional mods according to your preference. Optional mods are always plug and play, no need to run any tools and no load order requirements.
 
 ---
 
