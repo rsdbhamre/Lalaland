@@ -17,20 +17,20 @@
     "links": {
       "image": "https://raw.githubusercontent.com/rsdbhamre/Lalaland/main/Resources/Lalaland%20WJ%20Image.png",
       "readme": "https://github.com/rsdbhamre/Lalaland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_68fdc871-38bd-4d1c-afc7-e3b561a358db",
+      "download": "https://authored-files.wabbajack.org/Lalaland.wabbajack_da0e6165-6759-42a3-8211-0e685ebda232",
       "machineURL": "Lalaland",
       "discordURL": "https://discord.gg/mJDkWtmt53",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "zcitPtucUUQ=",
-      "Size": 382116478,
+      "Hash": "dOjYFe98lxQ=",
+      "Size": 382115586,
       "NumberOfArchives": 716,
-      "SizeOfArchives": 64269639152,
-      "NumberOfInstalledFiles": 197338,
-      "SizeOfInstalledFiles": 105197216304,
-      "TotalSize": 169466855456
+      "SizeOfArchives": 64269653888,
+      "NumberOfInstalledFiles": 197337,
+      "SizeOfInstalledFiles": 105197241389,
+      "TotalSize": 169466895277
     },
     "version": "6.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
