@@ -1,3 +1,56 @@
+# V6.2.1 Changelog
+
+### Summary
+- **Added:** 16 mods
+- **Removed:** 5 mods
+- **Updated:** 5 mods
+
+## Added Mods
+
+- 3BFTweaks - Favor Quests Separated Patch
+- ANDR_FQS - Bounty Preview
+- Bounty Preview
+- Dialogue Movement Enabler
+- Elite Wolf Armor PBR
+- Favor Quests Separated
+- Favor Quests Separated - The Choice Is Yours Patch
+- Favor Quests Seperated - USSEP Patch
+- Fortify Attribute Fix - NG
+- FrostDays - Smoothcam Preset
+- Grass Optimizations - Community Shaders
+- Marriable Saadia - Marry Saadia
+- Motion Sensitive Fix SE
+- Smarter Conjuration Minions
+- Snap Open - Instant doors and containers animations SKSE
+- Updates for Motion Sensitive Fix SE
+
+## Removed Mods
+
+- Get On With It - No more waiting for doors
+- Get On With It - No more waiting for doors - SMIM
+- Horse Save Load Fix
+- Patch Collection - Get On With It - NIF Fixes
+- SmoothCam Vanilla Enhanced 2
+- Terrain Helper
+
+## Updated Mods
+
+- Community Shaders: 1.8.4 → 1.9
+- HDR - Community Shaders: 1.2.1 → 1.2.2
+- Region Weather - Engine Fix: 1.0 → 1.1
+- Skylighting - Community Shaders: 1.5.1 → 1.5.2
+- Terrain Variation - Community Shaders: 1.1 → 1.2
+
+## Other Changes
+- adjusted candlelight duration
+- fixed conflict b/w candlelight edit and scrolls organized
+- removed LLL_Requiem-fix.esp (covered in ftweaks temp fixes)
+- map weather edit (was too bright)
+- changed smalltweaks load order
+- deleted a market stall mesh that let you loot stuff behind it
+- some volume slider adjustments
+
+
 # Lalaland 6.2 Changelog
 
 ### Summary
