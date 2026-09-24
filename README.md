@@ -65,7 +65,6 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 2. **Steam Setup**:
    - Disable [auto-updates for Skyrim SE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Run Skyrim SE once for graphics check.
-   - Install [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) on the same drive as Skyrim SE.
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
